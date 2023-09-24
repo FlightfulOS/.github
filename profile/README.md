@@ -3,7 +3,7 @@ This organization holds a customized version of [GrapheneOS](https://grapheneos.
 
 # Projects
 ## GrapheneOS
-[GrapheneOS](https://grapheneos.org) is a "privacy and security focused mobile OS" based on Android. It [sandboxes Google Play services](https://grapheneos.org/usage#sandboxed-google-play), preventing the overreaching that Google relies on to collect data.
+[GrapheneOS](https://grapheneos.org) is a "privacy and security focused mobile OS" based on Android. Among many, many other features, it [sandboxes Google Play services](https://grapheneos.org/usage#sandboxed-google-play), preventing the overreaching that Google relies on to collect data.
 
 ## microG
 [microG](https://microg.org) is "a free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries". Unfortunately, microG relies on signature spoofing. (Signature spoofing is basically when an app lies to other apps about who signed it. In this case, microG pretends to be Google.) Additionally, it needs to be run as a privileged system app to use every feature - although it's not necessary!
