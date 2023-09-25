@@ -17,7 +17,7 @@ Build it yourself. *I'm not responsible*, as-is basis, no warranties (even impli
 
 GrapheneOS talked about microG [on Twitter](https://twitter.com/GrapheneOS/status/1437380576055541761). Some of these points have been responded to [in an interview](https://youtube.com/watch?v=8sfnzd_mTOQ).
 
-## Where's the source code?
+## Where's the rest of the source code?
 * Upstream GrapheneOS source code is available at [https://github.com/GrapheneOS](https://github.com/GrapheneOS).
 * Upstream microG source code is avalable at [https://github.com/microG](https://github.com/microG).
 * A very, very small amount of CalyxOS code is used - which is available at [https://github.com/CalyxOS/platform_frameworks_base](https://github.com/CalyxOS/platform_frameworks_base).
