@@ -20,4 +20,4 @@ GrapheneOS talked about microG [on Twitter](https://twitter.com/GrapheneOS/statu
 * A very, very small amount of CalyxOS code is used - which is available at [https://github.com/CalyxOS/platform_frameworks_base](https://github.com/CalyxOS/platform_frameworks_base).
 
 ## How can I get this?
-Build it yourself.
+Build it yourself. *I'm not responsible*, as-is basis, no warranties (even implied), no guarantee, yada yada. **I will not help you. I make this for myself and myself only.**
